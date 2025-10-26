@@ -1,4 +1,4 @@
-public class Lab2 {
+public class {
     public static void main(String args[]) {
         System.out.println("Total number of arguments: " + args.length);
 
